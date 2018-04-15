@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string name="convert">chuyển đổi</string>
+    <string name="num">Số lượng :</string>
+    <string name="value">Nhập số lượng cần đổi</string>
+    <string-array name="From_array">
+        <item>Việt Nam Đồng (VND)</item>
+        <item>Đô la Mỹ(USD)</item>
+        <item>Euro(EUR)</item>
+
+
+    </string-array>
+
+
+</resources>
